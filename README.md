@@ -12,6 +12,6 @@ Serão fornecidas visualizações em mapa, série temporal e tabela.
 
 Nowadays, Spotify publishes on www.spotifycharts.com a ranking with the 200 most played songs of their catalog in many countries. There, you can access historical data, that – depending on the country – has been registered since January 1, 2017.
 
-The data was collected using Web Scraping with Python and the data visualizations were all built using R.
+The data was collected using Web Scraping with Python and the visualizations were all built using R.
 
 Map, time series and table visualizations are being provided.
